@@ -1,124 +1,74 @@
-Document title:
-Contributor Agreement – Forgotten Runes Community Compendium
+## Contributor Terms
 
-1. Parties
+By submitting a story to the *Forgotten Runes Community Short Story Compendium*, you confirm that you have read, understood, and agree to the following:
 
-Publisher / Project Lead
+### 1. Ownership
 
-Contributor (legal name + pen name if applicable)
+* You retain full copyright in your story.
+* You are not transferring ownership to the project.
 
-2. Contribution
+### 2. License to Publish
 
-Description of submitted story
+* You grant the project a **non-exclusive, worldwide license** to:
 
-Word count
+  * publish, sell, and distribute your story as part of this compendium,
+  * do so via **Amazon Kindle Direct Publishing (KDP)** in ebook and print formats,
+  * edit, format, and adapt your story for editorial cohesion and platform requirements,
+  * display excerpts for marketing.
 
-Declared primary FRWC token
+* You may publish your story elsewhere unless another platform requires exclusivity.
 
-3. Ownership
+### 3. Editorial Control
 
-Contributor retains full copyright in the story
+* You agree to **substantive editorial edits**, including structural changes.
+* Final editorial decisions rest with the project lead.
+* You consent to such edits and waive objections to them to the extent permitted by law.
 
-No assignment of ownership
+### 4. AI Disclosure
 
-4. License Grant
+* You must declare any use of AI tools in creating your submission.
+* Undeclared AI use may result in rejection.
+* Disclosure does not guarantee acceptance.
 
-Contributor grants Publisher a non-exclusive, worldwide, royalty-bearing license to:
+### 5. Revenue Share
 
-reproduce, publish, and distribute the work
+* Revenue, if any, will be shared as described in the project documentation.
+* Revenue is calculated from **Net Receipts** after platform fees, taxes, refunds, and costs.
+* Payments are made periodically in fiat.
+* **No revenue is guaranteed.**
 
-sell via Amazon KDP (ebook + print)
+### 6. No Partnership
 
-edit, format, and adapt for compilation and cohesion
+* You are not a partner, employee, or co-owner of the project.
+* Revenue sharing does not create any ownership or control rights.
 
-publicly display excerpts for marketing
+### 7. Originality & Responsibility
 
-Explicit exclusions:
+* Your work is original and does not infringe others’ rights.
+* Your work does not contain unlawful or defamatory material.
+* You are responsible for any claims arising from your submission.
 
-film/TV
+### 8. Platform Disclaimer
 
-games
+* Publication is subject to Amazon KDP approval.
+* Rejection or delisting by a platform does not create liability for the project.
 
-merchandise
+### 9. Token Association
 
-NFTs
+* Any FRWC token association is symbolic only.
+* Revenue is paid to the named contributor, not token holders.
 
-sublicensing beyond KDP distribution
+### 10. Withdrawal
 
-5. Editorial Control & Moral Rights
+* You may withdraw your submission only before the editorial lock date.
+* The project may exclude any submission prior to publication.
 
-Contributor consents to substantive editorial changes
+### 11. Governing Law
 
-Contributor acknowledges final editorial authority rests with Publisher
+* These terms are governed by the laws of the project lead’s jurisdiction.
 
-Moral rights waived or consented to to the extent permitted by law
+---
 
-Publisher not required to seek approval for edits
+**Submission constitutes acceptance of these terms.**
 
-6. AI Disclosure
-
-Contributor must disclose any AI assistance
-
-Undeclared AI use → immediate rejection
-
-Disclosure does not guarantee acceptance
-
-7. Revenue Share
-
-Defines “Net Receipts”
-
-States contributor percentage
-
-Payment cadence (quarterly)
-
-Minimum payout threshold
-
-Method of payment
-
-No audits
-
-No guarantee of revenue
-
-8. No Partnership
-
-No partnership, joint venture, agency, or fiduciary relationship
-
-Revenue share ≠ ownership
-
-9. Warranties
-
-Contributor warrants:
-
-originality
-
-no infringement
-
-no defamation
-
-no unlawful content
-
-compliance with Amazon KDP rules
-
-10. Indemnity
-
-Contributor indemnifies Publisher for losses arising from breach
-
-11. Termination & Withdrawal
-
-Withdrawal permitted only before Lock Date
-
-Publisher may remove work prior to publication at discretion
-
-12. Platform Disclaimer
-
-Publication subject to Amazon KDP acceptance
-
-Delisting ≠ breach
-
-13. Governing Law
-
-Jurisdiction specified
-
-14. Entire Agreement
-
-Supersedes all prior communications
+If you do not agree, do not submit.
