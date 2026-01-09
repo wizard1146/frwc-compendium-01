@@ -40,6 +40,7 @@ Submission implies agreement to **substantive editorial rewrites** for tone, pac
 
 ## Submission Process
 
+- Read Plain-Language Contributor Terms first; it explains what TERMS.md says in everyday language.
 - Submit by email to:  
   **wizard1146 at yellowhat1146@gmail.com**
 - Include:
