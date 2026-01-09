@@ -10,7 +10,7 @@ This project prioritises execution over perfection. The objective is a **Minimum
 
 ## SMART Objective
 
- - **Specific**: Compile **10 short stories** written by FRWC community members, each centred around a single FRWC token from the ecosystem, set within the Runiverse, and to be published as a unified short-story compendium
+ - **Specific**: Compile **10 short stories** written by FRWC community members for an adult audience, each centred around a single FRWC token from the ecosystem, set within the Runiverse, and to be published as a unified short-story compendium
 
  - **Measurable**: 
 	 - 10 accepted stories
