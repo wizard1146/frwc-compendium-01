@@ -49,3 +49,8 @@ The project terminates if any of the following occur:
 
 1. Fewer than 2 stories received in the first 30 days  
 2. Fewer than 7 stories received by the end of the
+
+---
+
+## Participation
+See Plain-Language Contributor Terms (TERMS_PLAIN.md) for a simple explanation of what you agree to if you participate.
