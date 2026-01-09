@@ -1,6 +1,6 @@
 # Contributor Terms
 
-By submitting a story to the Forgotten Runes Community Short Story Compendium, you confirm that you have read, understood, and agree to the following terms.
+By submitting a story to the Forgotten Runes Community Short Story Compendium, you confirm that you have read, understood, and agree to the following terms. A simple explanation can be read at TERMS_PLAIN.md but does not replace this document.
 
 Submission constitutes acceptance.
 
