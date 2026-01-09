@@ -109,6 +109,7 @@ The project terminates if any of the following occur:
 
 1. Fewer than 2 stories received in the first 30 days  
 2. Fewer than 7 stories received by the end of the extended period
+3. First 4 submissions are rejected
 
 ---
 
