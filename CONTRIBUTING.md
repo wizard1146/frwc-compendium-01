@@ -19,7 +19,7 @@ Canon events may be referenced but are not required:
 ### Narrative Aim
 Not lore exposition.
 
-Stories should evoke **wonder, discovery, and tension** in an unexplored universe.
+Stories should evoke **wonder, discovery, and tension** in an unexplored universe. Read STORY_STEMS.md for optional inspiration.
 
 ### Length
 - **6,000–10,000 words** per story
